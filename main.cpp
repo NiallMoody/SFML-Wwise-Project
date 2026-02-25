@@ -71,8 +71,10 @@ int main()
 			}
 		}
 
+		//--Wwise code----------------------------------------------------------
 		//Handle Wwise's audio rendering.
 		AK::SoundEngine::RenderAudio();
+		//----------------------------------------------------------------------
 
 		window.clear();
 		window.draw(shape);
