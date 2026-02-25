@@ -14,6 +14,10 @@ to see what's different.
 Note that `WwiseWrapper` provides just the barebones of a Wwise integration. You
 will likely need to extend it to make it work for your purposes.
 
+Note also that you will need Wwise installed (including the SDK), and may need
+to update the header and library search paths in the project settings to point
+to your Wwise SDK installation.
+
 ## Visual Studio Project Settings
 Setting up your Visual Studio project to work with Wwise is similar to using any
 external library: you will need to set the **Additional Include Directories** to
