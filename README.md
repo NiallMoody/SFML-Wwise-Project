@@ -22,7 +22,6 @@ Directories** to point to the appropriate SDK `lib` folder (note there are
 separate libraries for Debug and Release versions), and you will need to include
 the following libraries:
 
-|------------------------|----------|
 |Library				 |Debug Only|
 |------------------------|----------|
 |AkSoundEngine.lib		 |			|
@@ -32,7 +31,6 @@ the following libraries:
 |AkMusicEngine.lib		 |			|
 |CommunicationCentral.lib|Yes		|
 |wsock32.lib			 |Yes		|
-|------------------------|----------|
 
 You will also want to add `AK_OPTIMIZED` to the **Preprocessor Definitions** for
 the release build.
