@@ -18,7 +18,7 @@ Note also that you will need Wwise installed (including the SDK), and may need
 to update the header and library search paths in the project settings to point
 to your Wwise SDK installation.
 
-The project is built for **SFML 3.0.2**.
+The project is built for **SFML 3.0.2** and **Wwise 2024.1.8.8898**.
 
 ## Visual Studio Project Settings
 Setting up your Visual Studio project to work with Wwise is similar to using any
