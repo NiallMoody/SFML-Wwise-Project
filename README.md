@@ -45,4 +45,5 @@ the release build.
 ## SoundEngine Folder
 By default, Wwise expects you to implement a lot of file I/O and memory handling
 yourself. Audiokinetic provide a reference implementation however. These files
-are included in the **SoundEngine** folder.
+are included in the **SoundEngine** folder. Note that you must include the files
+in the **SoundEngine** folder if you are adding Wwise to a separate project.
