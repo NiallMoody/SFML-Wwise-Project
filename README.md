@@ -17,7 +17,7 @@ will likely need to extend it to make it work for your purposes.
 Note also that you will need SFML and Wwise installed (including the SDK), and
 may need to update the header and library search paths in the project settings
 to point to your SFML and Wwise SDK installations. The project assumes that SFML
-installed two folders down from the project folder (`../../`).
+is installed two folders down from the project folder (`../../`).
 
 The project is built for **SFML 3.0.2** and **Wwise 2024.1.8.8898**.
 
